@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anime List</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_anime">Cari Anime</string>
+</resources>
